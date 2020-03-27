@@ -16,6 +16,20 @@ module.exports = {
     }
   },
 
+  test: {
+    client: 'postgresql',
+    connection: {
+      user: 'postgres',
+      password: 'e77540ae54f74e22a8ed58a34bc99cf4',
+      host: 'localhost',
+      port: 5432,
+      database: 'test'
+    },
+    migrations: {
+      directory: './src/database/migrations'
+    }
+  },
+
   staging: {
     client: 'postgresql',
     connection: {
