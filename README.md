@@ -2,7 +2,7 @@
 BeTheHero - Application developed in the weekOmnistack 11.0
 
 Techs utilizadas:
-  BACKEND
+  **_BACKEND_**/n
     "Express",
     "Celebrate",
     "Cors",
