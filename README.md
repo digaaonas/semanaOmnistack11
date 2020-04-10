@@ -3,9 +3,9 @@
 
 <h2>Techs utilizadas:</h2>
   <h3>BACKEND</h3>
-    <h4>Express"</h4>
-    <h4>Celebrate"</h4>
-    <h4>Cors"</h4>
+    <h4>Express</h4>
+    <h4>Celebrate</h4>
+    <h4>Cors</h4>
     <h4>Cross-env</h4>
     <h4>Knex</h4>
     <h4>PostgreSQL</h4>  
